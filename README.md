@@ -2,7 +2,7 @@
 
 ![Spotify Wrapper Player Screenshot](example/screenshot.png)
 
-> This application uses [spotify-wrapper](https://github.com/willianjusten/spotify-wrapper) library to get informations and songs from Spotify. It was created on my [JS TDD course](https://willianjusten.com.br/cursos/) just for study purposes.
+> This application uses [spotify-wrapper](https://github.com/hlays/spotify-wrapper-jstdd) library to get informations and songs from Spotify. It was created on my [JS TDD course](https://willianjusten.com.br/cursos/) just for study purposes.
 
 ## Browser Support
 
@@ -35,14 +35,12 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/willianjusten/spotify-wrapper-player/tags).
 
 ## Authors
-
-| ![Willian Justen](https://avatars2.githubusercontent.com/u/3991845?v=3&s=150)|
-|:---------------------:|
-|  [Willian Justen](https://github.com/willianjusten/)   |
+Originally from 'JS com TDD' course by [Willian Justen](https://github.com/willianjusten/).
 
 See also the list of [contributors](https://github.com/willianjusten/spotify-wrapper-player/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 
